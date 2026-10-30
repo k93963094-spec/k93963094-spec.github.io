@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://k93963094-spec.github.io/sitemap.xml
